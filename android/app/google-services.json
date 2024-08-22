@@ -1,0 +1,48 @@
+
+{
+  "project_info": {
+    "project_number": "599239029348",
+    "project_id": "zuqzuq-23b1a",
+    "storage_bucket": "zuqzuq-23b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599239029348:android:40260b7b4511c9774b2571",
+        "android_client_info": {
+          "package_name": "com.kwikk.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599239029348-khrsnkr7ncs9adv45vd9qfcc9p1mjas0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kwikk.user",
+            "certificate_hash": "3d73583ef7da3fa127cde40d2a5124520ff792b0"
+          }
+        },
+        {
+          "client_id": "599239029348-rmc7po39m9rt5ojo9v1h90ei09k96u37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPoo_KYh_P5FinJFTXz7xlhewb_AgZsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599239029348-rmc7po39m9rt5ojo9v1h90ei09k96u37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
